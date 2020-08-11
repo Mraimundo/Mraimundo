@@ -11,7 +11,7 @@
 
 ✨ Sou um profissional com um sentido de responsabilidade, disciplinado e rigiroso, apaixonado por resolver problemas utilizando a programação.
 
-<br/>computer: &nbsp; Sou um Desenvolvedor Front end 
+<i> :  computer: &nbsp; Sou um desenvolvedor Front end. <i/>
 
 <br/>:rocket:  &nbsp; Estou estudando na **Rocketseat**
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
