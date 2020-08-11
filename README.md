@@ -16,9 +16,9 @@
 <br/> :computer: &nbsp; Minha stack: ReactJS,  JavaScript & Typescript
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games MW:, Desportos e seriados no Netflix
 
-<br/>: airplane:  Adoro viajar para qualquer lugar! É bom respirar novos ares.
-<br/>: art:  Quando tenho a oportunidade eu também atuo (sim, é isso mesmo, sou dançarino frustrado Lol);
-<br/>: guitar:  Toco violão (muito ruim, mas gosto).
+<br/>:airplane:Adoro viajar para qualquer lugar! É bom respirar novos ares.
+<br/>:art:Quando tenho a oportunidade eu também atuo (sim, é isso mesmo, sou dançarino frustrado Lol);
+<br/>:guitar:Toco violão (muito ruim, mas gosto).
 
 <i> ( Send me a direct)</i>.
 
