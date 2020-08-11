@@ -4,14 +4,11 @@
 
 ### Mouzinho Raimundo
 
-
-<img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif"> 
-
-## Olá pessoal 👋
-
 ✨ Sou um profissional com um sentido de responsabilidade, disciplinado e rigiroso, apaixonado por resolver problemas utilizando a programação.
 
-<i> :  computer: &nbsp; Sou um desenvolvedor Front end. <i/>
+<img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">  
+
+### Olá pessoal 👋
 
 <br/>:rocket:  &nbsp; Estou estudando na **Rocketseat**
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
@@ -19,10 +16,9 @@
 <br/> :computer: &nbsp; Minha stack: ReactJS,  JavaScript & Typescript
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games MW:, Desportos e seriados no Netflix
 
-### My personal "About me":
-<br/>: airplane: &nbsp; adoro viajar para qualquer lugar! É bom respirar novos ares.
-<br/>: art: &nbsp; Quando tenho a oportunidade eu também atuo (sim, é isso mesmo, sou dançarino frustrado Lol);
-<br/>: guitar: &nbsp; toco violão (muito ruim, mas gosto)
+<br/>: airplane:  Adoro viajar para qualquer lugar! É bom respirar novos ares.
+<br/>: art:  Quando tenho a oportunidade eu também atuo (sim, é isso mesmo, sou dançarino frustrado Lol);
+<br/>: guitar:  Toco violão (muito ruim, mas gosto).
 
 <i> ( Send me a direct)</i>.
 
