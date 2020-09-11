@@ -13,7 +13,7 @@
 <br/>:rocket:  &nbsp; Estou estudando na **Rocketseat**
 <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
 <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
-<br/> :computer: &nbsp; Minha stack: ReactJS,  JavaScript & Typescript
+<br/> :computer: &nbsp; Minha stack: ReactJS,  JavaScript & Nodejs
 <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games MW:, Desportos e seriados no Netflix
 
 <br/>:airplane: Adoro viajar para qualquer lugar! É bom respirar novos ares.
