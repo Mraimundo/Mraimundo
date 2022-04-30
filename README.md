@@ -20,6 +20,28 @@
 <br/>:art: Quando tenho a oportunidade eu também atuo (sim, é isso mesmo, sou dançarino frustrado Lol);
 <br/>:guitar: Toco violão (muito ruim, mas gosto).
 
+
+
+
+### PROGRAMMING STATS AND GITHUB STATS
+
+
+
+<p align="justify" style="marginTop: 20px">
+  <a href="https://github.com/Mraimundo/github-readme-stats">
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api?username=Mraimundo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+  </a>
+   <a href="https://github.com/Mraimundo/github-readme-stats">
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mraimundo&layout=compact&theme=radical" />
+  </a>  
+</p>
+
+
 <i> ( Send me a direct)</i>.
 
 <br/> :email: &nbsp; Contact me:
