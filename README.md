@@ -1,24 +1,24 @@
 
 
-### Olá pessoal 👋
+### Hello guys👋
 
-### Eu sou Mouzinho Raimundo
+### I'm Mouzinho Raimundo
 
-✨ Sou um profissional com um sentido de responsabilidade, disciplinado e rigiroso, apaixonado por resolver problemas utilizando a programação.
+✨ I am a professional with a sense of responsibility, disciplined and rigorous, passionate about solving problems using programming.
 
 <img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">  
 
-<br/>:rocket:  &nbsp; Estou estudando na **Rocketseat**
-<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Next
-<br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
-<br/> :computer: &nbsp; Minha stack: ReactJS, JavaScript, typescript
+<br/>:rocket:  &nbsp; I'm studying at **Rocketseat**
+<br/> :purple_heart: &nbsp; Looking to collaborate on Front-end projects using React and Next
+<br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
+<br/> :computer: &nbsp; My stack: ReactJS, JavaScript, typescript
 <code><img height="20" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, Desportos e seriados no Netflix
-<br/>:airplane: Adoro viajar para qualquer lugar! É bom respirar novos ares.
-<br/>:art: Quando tenho a oportunidade eu também atuo (sim, é isso mesmo, sou dançarino frustrado Lol);
-<br/>:guitar: Toco violão (muito ruim, mas gosto).
+<br/> 💬  &nbsp; About me: I enjoy technologies, games, sports and series on Netflix
+<br/>:airplane: I love to travel anywhere! It's good to breathe new air.
+<br/>:art: When I have the opportunity I act too (yes that's right, I'm a frustrated dancer Lol);
+<br/>:guitar: I play guitar (very bad, but I like it).
 
 
 
