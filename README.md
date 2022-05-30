@@ -8,7 +8,7 @@
 
 <img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">  
 
-<br/>:rocket:  &nbsp; I'm studying at **Rocketseat**
+<br/>:rocket:  &nbsp; I do the **Rockeseat** Ignite
 <br/> :purple_heart: &nbsp; Looking to collaborate on Front-end projects using React and Next
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout and Flexbox
 <br/> :computer: &nbsp; My stack: ReactJS, JavaScript, typescript
