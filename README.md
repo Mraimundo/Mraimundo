@@ -10,8 +10,8 @@
 
 <br/>:rocket:  &nbsp; I do the **Rockeseat** Ignite
 <br/> :purple_heart: &nbsp; Looking to collaborate on Front-end projects using React and Next
-<br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox, Styled-components, Stitches, and Tailwind.
-<br/> :computer: &nbsp; My stack: ReactJS, NextJs JavaScript, typescript
+<br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox, Styled-components, Stitches, and Tailwindcss.
+<br/> :computer: &nbsp; My stack: ReactJS, NextJs, NodeJs, JavaScript, typescript
 <code><img height="20" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
