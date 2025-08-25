@@ -9,9 +9,9 @@
 <img width="30%" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">  
 
 <br/>:rocket:  &nbsp; I do the **Rockeseat** Ignite
-<br/> :purple_heart: &nbsp; Looking to collaborate on FullStack projects using Node, React and Next
+<br/> :purple_heart: &nbsp; Looking to collaborate on FullStack projects using Node, React
 <br/> :blush: &nbsp; I can help you with CSS Grid Layout, Flexbox, Styled-components, Stitches, and Tailwindcss.
-<br/> :computer: &nbsp; My stack: ReactJS, NextJs, NodeJs, JavaScript, typescript
+<br/> :computer: &nbsp; My stack: ReactJS, React Native, NextJs, NodeJs, JavaScript, typescript
 <code><img height="20" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
