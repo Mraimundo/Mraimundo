@@ -2,24 +2,12 @@
 
 ✨ I am a professional with a sense of responsibility, disciplined and rigorous, passionate about solving problems using programming.
 
-<div align="justify" style="margin-top: 20px">
-  <div>
-    <img 
-      align="left" 
-      width="490" 
-      height="165" 
-      src="https://github-readme-stats.vercel.app/api?username=Mraimundo&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true" 
-    />
-  </div>
+<div align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Mraimundo&theme=radical&ring=f69673&fire=f69673&currStreakLabel=1b93c9" width="100%"/>
+</div>
 
-  <div>
-    <a href="https://github.com/Mraimundo/github-readme-stats">
-      <img
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mraimundo&layout=compact&theme=radical"
-      />
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mraimundo&theme=radical&hide_border=true&area=true" width="100%"/>
 </div>
 
 <p>
