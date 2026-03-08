@@ -37,7 +37,7 @@
 ```javascript
 const mraimundo = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    code: ["TypeScript", "Javascript", "Python"],
     askMeAbout: ["web dev", "app dev", "UI/UX",],
     technologies: {
         frontEnd: {
@@ -47,13 +47,14 @@ const mraimundo = {
         },
         backEnd: {
             js: ["Node", "Express", "Fastify"],
+            python: [ 'FastAPI', "Pandas", "Streamlit" ],
         },
         mobileApp: {
             crossPlatform: ["ReactNative"],
         },
         devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
         cloudServices: {
-            aws: ["EC2", "S3", "Lambda",],
+            aws: ["S3", "Lambda",],
         },
         databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
         misc: ["Socket.IO", "REST APIs", "WebSockets",],
