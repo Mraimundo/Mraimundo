@@ -3,10 +3,6 @@
 ✨ I am a professional with a sense of responsibility, disciplined and rigorous, passionate about solving problems using programming.
 
 <div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Mraimundo&theme=radical&ring=f69673&fire=f69673&currStreakLabel=1b93c9" width="100%"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mraimundo&theme=radical&hide_border=true&area=true" width="100%"/>
 </div>
 
