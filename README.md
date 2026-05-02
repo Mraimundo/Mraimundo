@@ -31,7 +31,10 @@ const mraimundo = {
         },
         backEnd: {
             js: ["Node", "Express", "Fastify"],
-            python: [ 'FastAPI', "Pandas", "Streamlit" ],
+            python: [ 'FastAPI', 'Flask' ],
+        },
+        dataAnalyst: {
+            python: [ 'Pandas', 'Streamlit' ],
         },
         mobileApp: {
             crossPlatform: ["ReactNative"],
